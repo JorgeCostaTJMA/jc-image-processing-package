@@ -2,8 +2,7 @@
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	THIS IS ONLY A COPY PACKAGE FOR LEARNING ABOUT CREATING PACKAGES .
 
 ## Installation
 
@@ -21,7 +20,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Jorge Ferreira da Costa
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
