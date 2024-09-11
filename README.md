@@ -1,4 +1,4 @@
-# package_name
+# IMAGE PROCESSING PACKAGE FOR LEARNING
 
 Description. 
 The package package_name is used to:
